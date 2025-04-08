@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Connectify 🌐📞
 
 ## Connect Beyond Boundaries
@@ -116,3 +117,7 @@ Project Link: [https://github.com/khyatichahal/connectify](https://github.com/kh
 ### 💖 Support the Project
 
 Give a ⭐ if you like Connectify!
+=======
+# connectify
+Here's a comprehensive description of Connectify: Connectify is a full-stack video conferencing web application designed to bridge distances and bring people closer together.
+>>>>>>> 059ce0b04efe55671d8014be2ecf492ac714a65e
